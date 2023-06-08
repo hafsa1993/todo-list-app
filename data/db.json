@@ -1,0 +1,19 @@
+{
+  "todoList": [
+    {
+      "id": 1,
+      "checked": true,
+      "title": "eat dinner"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "title": "buy sweets"
+    },
+    {
+      "id": 4,
+      "checked": true,
+      "title": "ring ding dong bell"
+    }
+  ]
+}
